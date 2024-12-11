@@ -4,7 +4,7 @@ Perkenalkan nama saya **Luqman Sukma Rifaada**.<br>
 
 Saya seorang **Student** di [Dicoding](https://www.dicoding.com/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/luqman-sukma-rifaada-ba073b312)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/luqman-sukma-rifaada-ba073b312/)ku ya.
 
 ### Github Statistic
 <p align="left">
